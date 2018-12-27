@@ -1,0 +1,43 @@
+''' Plugins by Pathogen: '''
+
+# setup Pathogen:
+mkdir -p ~/.vim/autoload ~/.vim/bundle && \
+curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+
+
+Add this to your vimrc:
+
+execute pathogen#infect()
+
+
+
+
+# NERDTree: ...
+
+
+
+
+# YouCompleteMe:
+
+mkdir -p ~/.vim/autoload ~/.vim/bundle && \
+curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+
+put execute pathogen#infect() inside vimrc
+
+cd ~/.vim/bundle
+git clone https://github.com/Valloric/YouCompleteMe.git
+cd YouCompleteMe
+git submodule update --init --recursive
+
+
+
+
+
+
+
+
+
+
+
+
+
