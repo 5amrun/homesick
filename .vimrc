@@ -13,6 +13,9 @@ set ruler
 highlight Comment ctermfg=green
 
 
+inoremap ii <Esc>
+
+
 execute pathogen#infect()
 
 
