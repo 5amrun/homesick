@@ -1,0 +1,10 @@
+vlc
+spotify
+visual-studio-code
+atom
+postman
+scroll-reverser
+android-file-transfer
+pycharm
+
+
