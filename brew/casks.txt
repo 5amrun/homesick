@@ -5,6 +5,5 @@ atom
 postman
 scroll-reverser
 android-file-transfer
-pycharm
 
 
