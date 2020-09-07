@@ -1,0 +1,9 @@
+google-chrome
+vlc
+visual-studio-code
+scroll-reverser
+appcleaner
+android-file-transfer
+google-backup-and-sync
+pycharm
+postman
